@@ -1,0 +1,31 @@
+video,cam,start,end,question,answer
+7,D,27,36,how many people can I see in the scene,two
+7,D,27,36,what is the man on my right side doing,sit down
+7,D,38,47,what is the man on my left side doing,sit down
+7,D,164,173,how many people can I see in the scene,three
+7,D,708,718,what am I doing,walk to the desk
+7,D,170,176,who is sitting in front of the door,the man in blue clothes
+7,D,192,201,what am I playing in hands,phone
+7,D,192,201,what am I holding in hands,phone
+7,D,423,429,what is the object on desk behind the man in gray clothes,monitor
+7,D,626,632,what is the object on desk on left side of the door,monitor
+7,D,698,705,what am I doing,sit down
+7,D,713,725,who is walking across the room,the man in blue clothes
+7,D,733,745,who is walking across the room,the man in blue clothes
+7,D,763,768,who is standing beside a chair,the man in blue clothes
+7,D,776,788,who is walking towards the door,the man in blue clothes
+7,D,814,823,who is walking into the room,the man in blue clothes
+7,D,987,998,who is standing up,the man in gray clothes
+7,D,999,1007,what is the man in gray clothes doing,turn on computer
+7,D,1057,1066,who is standing up from a chair,the man in red clothes
+7,D,1087,1096,who is sitting down by the table,the man in red clothes
+7,D,187,192,what am I playing in hands,phone
+7,D,724,728,what is on the desk on my left side,phone
+7,D,181,209,what am I doing,play phone
+7,D,301,341,how many people are standing in the room,zero
+7,D,638,677,what am I doing,walk around
+7,D,717,745,what is the man in blue clothes doing,walk around
+7,D,780,838,what is the man in blue clothes doing,walk around
+7,D,988,1021,what is the man in gray clothes doing,walk around
+7,D,1175,1191,how many people are sitting in the room,three
+7,D,1201,1217,how many people are standing in the room,zero

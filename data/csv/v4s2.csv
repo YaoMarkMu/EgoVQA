@@ -1,0 +1,24 @@
+video,cam,start,end,question,answer
+4,M,45,53,what is the man on my left side doing,sit down
+4,M,45,53,what is the object on the desk,computer
+4,M,62,69,what is the man on my right side doing,sit down
+4,M,105,110,how many people can I see in the scene,one
+4,M,125,131,what am I looking at ,computer
+4,M,143,160,what is the man doing,get can
+4,M,168,177,what is the man doing,drink
+4,M,192,200,what am I doing,eat snack
+4,M,192,200,what is behind the man in front of me,whiteboard
+4,M,422,435,what is holding in my hand,snack
+4,M,479,495,what is holding in my hand,snack
+4,M,509,526,what is the man doing in front of me,type on keyboard
+4,M,531,544,what am I putting on the desk,snack
+4,M,588,594,what is the man looking at in front of me,monitor
+4,M,297,305,what am I doing,have snack
+4,M,314,324,what is on the desk on my left hand side,monitor
+4,M,352,359,what am I doing,have snack
+4,M,271,280,what is on the desk on my left hand side,monitor
+4,M,272,281,what is on the desk on my right hand side,computer
+4,M,571,577,what is on the wall on my left side,tv
+4,M,131,139,what is the man on my right side doing,get can on desk
+4,M,263,267,what is on the wall behind the computer,whiteboard
+4,M,357,364,what is the man in front of me doing,put can on desk

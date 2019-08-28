@@ -1,0 +1,45 @@
+video,cam,start,end,question,answer
+6,D,29,38,how many people can I see in the scene,two
+6,D,102,107,what can I see in the scene,chair
+6,D,285,300,how many people can I see in the scene,one
+6,D,423,427,what can I see in the scene,chair
+6,D,486,492,what am I holding in hands,toy
+6,D,536,540,how many people can I see in the scene,two
+6,D,538,542,who is standing in front of me,the man in blue clothes
+6,D,551,556,who is standing on my left side,the man in clothes clothes
+6,D,551,556,who is standing in front of me,the man in blue clothes
+6,D,720,726,what is the object on left of the man in blue clothes,desk
+6,D,745,755,who is walking into the scene,the man in red clothes
+6,D,755,765,how many people can I see in the scene,three
+6,D,821,834,who is walking out of the scene,the man in red clothes
+6,D,910,916,who is play a toy in hands,the man in red clothes
+6,D,910,916,what is the man in front of me doing,play toy
+6,D,986,992,what am I playing,toy
+6,D,1092,1105,what is the man in red clothes doing,sit down
+6,D,394,400,what is the object placed on the desk,toy
+6,D,394,400,who is standing in front of sofa,the man in red clothes
+6,D,654,658,who is standing in front of door,the man in blue clothes
+6,D,740,745,who is standing in front of door,the man in gray clothes
+6,D,929,939,who is walking in front of me,the man in red clothes
+6,D,238,242,what am I playing with,toy
+6,D,237,241,what is the color of the toy in my hands,blue
+6,D,492,497,what is the color of the toy in my hands,blue
+6,D,620,626,how many people can I see in the scene,zero
+6,D,709,715,how many people can I see in the scene,two
+6,D,778,785,how many people can I see in the scene,three
+6,D,1004,1011,what is the man doing on my left side,throw toy
+6,D,1004,1011,what is the man throwing to another man in front of me,toy
+6,D,1018,1023,what is the man in blue clothes doing,throw toy
+6,D,571,576,what is on the desk,apple
+6,D,1107,1112,who is sitting on chair,the man in red shirt
+6,D,275,338,what is the man in red clothes doing,play toy
+6,D,338,358,what are on the sofa behind the man in red shirt,pillows
+6,D,360,375,how many pillows are on the blue sofa,two
+6,D,386,410,what is the color of the sofa in the room,blue
+6,D,471,495,how many people are standing around me,three
+6,D,472,491,what is the man in blue clothes wearing,camera
+6,D,584,595,what is the man in blue clothes wearing,camera
+6,D,800,823,how many people are standing around me,three
+6,D,821,850,what is the object beside the sofa ,print machine
+6,D,843,866,how many pillows are on the sofa,two
+6,D,1106,1136,how many people are sitting on chair,one

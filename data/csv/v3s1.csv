@@ -1,0 +1,40 @@
+video,cam,start,end,question,answer
+3,F,45,50,how many people are in the scene,one
+3,F,77,83,how many people are in the scene,two
+3,F,77,83,how many people are in the room,two
+3,F,83,88,what color of clothes is the man beside door,blue
+3,F,83,88,who is sitting on the chair,a man in dark clothes
+3,F,83,88,who is standing beside the door,a man in blue
+3,F,169,182,what is the man in blue shirt doing,close the door
+3,F,169,182,who is closing the door,a man in blue shirt
+3,F,200,208,who am I looking at,a man in blue
+3,F,200,208,what is the man in front of me doing,erase whiteboard
+3,F,204,213,who am I looking at,a man in blue
+3,F,204,213,what is the man in front of me doing,erase whiteboard
+3,F,256,269,who am I looking at,a man in dark clothes
+3,F,300,317,what is the man in blue shirt doing,draw on whiteboard
+3,F,320,336,what is the man in blue shirt doing,draw on whiteboard
+3,F,340,350,what is the man doing in front of me,draw on whiteboard
+3,F,340,350,who am I looking at,a man in blue
+3,F,410,420,what is the man doing in front of me,draw on whiteboard
+3,F,560,575,what am I doing,point on whiteboard
+3,F,70,74,how many people can I see in the room,one
+3,F,75,85,who is entering the room through the door,a man in blue shirt
+3,F,202,216,what is the man in blue shirt doing,erase whiteboard
+3,F,490,510,what is the man doing in front of me,write on whiteboard
+3,F,570,576,what am I doing,point on whiteboard
+3,F,1908,1919,who is standing by the wall and door,the man in blue shirt
+3,F,1957,1970,what is the man on my left side doing,sit down
+3,F,2173,2185,what is the man doing in front of me,point on whiteboard
+3,F,43,47,who is going out of the room,the man in blue shirt
+3,F,80,86,what is the man in blue shirt doing,walk
+3,F,197,203,who is sitting on the chair,the man on my left side
+3,F,429,442,what is the man doing in front of me,draw on whiteboard
+3,F,497,509,what is the color the man draw on whiteboard,green
+3,F,739,756,what is the man doing on whiteboard,draw
+3,F,1196,1211,what am I doing on whiteboard,draw
+3,F,1289,1294,what is the man on my left side doing,look at the whiteboard
+3,F,1783,1792,how many people stand in the room,two
+3,F,2195,2204,where is the whiteboard,on my right side
+3,F,1256,1302,what is the man in blue shirt doing,walk around
+3,F,2161,2213,what is the man in front of me doing,point on whiteboard
