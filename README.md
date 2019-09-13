@@ -1,26 +1,18 @@
-### Experiment on MSVD-QA
+### Experiment on Ego-VQA
 
-### Dataset
-In this experiment, we use [[MSVD-QA dataset]](https://github.com/xudejing/VideoQA).
-Please cite this paper[[27]](https://www.comp.nus.edu.sg/~xiangnan/papers/mm17-videoQA.pdf) if you use this dataset, 
-and consider comparing your methods with the following great work of AMU network design.
-Please refer to their website for the detailed statistics of this dataset.
-You don't need to download their features, we pack them and organize in following way.
-
-
-1. First, download our packed Resnet and C3D features [[here]](https://drive.google.com/file/d/1i-8kie6yEXbrR-P4mUF4YimJcHYPa7Go/view?usp=sharing),
-move video_feature_20.h5 to `data/msvd_qa`.
-
-2. Second, download word embedding file [[here]](https://drive.google.com/file/d/1G7aFy3QS_PlhicFZ0MMnAHMxFC94p6Pl/view?usp=sharing), 
-and move to `data/msvd_qa`.
-
-3. Optionally you can download original MSVD-QA videos. This helps visualization.
+### Ego-VQA Dataset
+In this experiment, we use [[Ego-VQA dataset]]().
+Please cite this paper[[27]](http://homes.sice.indiana.edu/fan6/docs/EgoVQA.pdf) if you use this dataset.
+The original IU Multi-view egocentric video dataset can be downloaded [[here]](http://vision.soic.indiana.edu/identifying-1st-3rd/).
+Though it's not necessary to download the original frames, it would be helpful to visualize the egocentric data.
 
 
+### Pre-training Dataset (YouTube2Text-QA)
+Because the Ego-VQA is a generally small QA dataset, we use a large [[YouTube2Text-QA dataset]] for pre-training.
+Please cite this paper[[27]](http://homes.sice.indiana.edu/fan6/docs/EgoVQA.pdf) if you use this dataset.
+The original IU Multi-view egocentric video dataset can be downloaded [[here]](http://vision.soic.indiana.edu/identifying-1st-3rd/).
+Though it's not necessary to download the original frames, it would be helpful to visualize the egocentric data.
 
-### Pre-trained models
-We provide our pre-trained models to replicate the reported numbers in our paper.
-1. Download from [[here]](https://drive.google.com/file/d/196-z0cP29IMFqI9wJ-RPjtypXm70fhKQ/view?usp=sharing) and override current empty saved_models folder.
 
 
 ### Train, validate, and test
