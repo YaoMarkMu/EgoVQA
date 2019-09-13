@@ -21,6 +21,8 @@ Please cite this paper[[27]](https://arxiv.org/abs/1707.06355) if you use this d
 ~~~~
 python pretrain.py --memory_type=_mrm2s | _stvqa | _enc_dec | _co_mem
 ~~~~
+Please manually set select the best model on validation set for each model (memory_type), 
+and modify train.py Line 149-179 accordingly to update the initialization models.
 
 ### Train, validate, and test
 For training and validating, execute the following command
@@ -36,4 +38,11 @@ python test.py --memory_type=_mrm2s | _stvqa | _enc_dec | _co_mem
 Please modify train.py to manually add your pre-trained models to initialize the entire model.
 Current we use default models we provided in previous steps.
 
+
+### Requirements
+Python = 2.7
+ 
+PyTorch = 1.0+ [[here]](https://pytorch.org/)
+
+GPU training with 4G+ memory, testing with 1G+ memory.
 
