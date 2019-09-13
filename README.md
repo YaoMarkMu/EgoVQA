@@ -22,7 +22,7 @@ Please cite this paper[[27]](https://arxiv.org/abs/1707.06355) if you use this d
 python pretrain.py --memory_type=_mrm2s | _stvqa | _enc_dec | _co_mem
 ~~~~
 Please manually set select the best model on validation set for each model (memory_type), 
-and modify train.py Line 149-179 accordingly to update the initialization models.
+and modify [train.py](https://github.com/fanchenyou/EgoVQA/blob/master/train.py#L149) accordingly to update the initialization models.
 
 ### Train, validate, and test
 For training and validating, execute the following command
