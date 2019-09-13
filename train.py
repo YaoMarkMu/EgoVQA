@@ -85,7 +85,7 @@ def main():
                         help='path for saving trained models')     
     parser.add_argument('--split', type=int, help='which of the three splits to train/val/test, option: 0 | 1 | 2')
     parser.add_argument('--test', type=int, default=0, help='0 | 1')
-    parser.add_argument('--memory_type', type=str, help='0 | 1')
+    parser.add_argument('--memory_type', type=str, help='_mrm2s | _stvqa | _enc_dec | _co_mem')
 
     args = parser.parse_args()
     
