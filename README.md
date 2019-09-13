@@ -1,7 +1,7 @@
 ### Experiment on Ego-VQA
 
 ### Ego-VQA Dataset
-In this experiment, we use [[Ego-VQA dataset]]().
+In this experiment, we use [[Ego-VQA dataset]](https://github.com/fanchenyou/EgoVQA/tree/master/data).
 Please cite this paper[[27]](http://homes.sice.indiana.edu/fan6/docs/EgoVQA.pdf) if you use this dataset.
 The original IU Multi-view egocentric video dataset can be downloaded [[here]](http://vision.soic.indiana.edu/identifying-1st-3rd/).
 Though it's not necessary to download the original frames, it would be helpful to visualize the egocentric data.
@@ -9,9 +9,8 @@ Though it's not necessary to download the original frames, it would be helpful t
 
 ### Pre-training Dataset (YouTube2Text-QA)
 Because the Ego-VQA is a generally small QA dataset, we use a large [[YouTube2Text-QA dataset]] for pre-training.
-Please cite this paper[[27]](http://homes.sice.indiana.edu/fan6/docs/EgoVQA.pdf) if you use this dataset.
-The original IU Multi-view egocentric video dataset can be downloaded [[here]](http://vision.soic.indiana.edu/identifying-1st-3rd/).
-Though it's not necessary to download the original frames, it would be helpful to visualize the egocentric data.
+Please cite this paper[[27]](https://arxiv.org/abs/1707.06355) if you use this dataset.
+
 
 
 
