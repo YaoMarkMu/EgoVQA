@@ -6,6 +6,10 @@ Please cite this paper[[27]](http://homes.sice.indiana.edu/fan6/docs/EgoVQA.pdf)
 The original IU Multi-view egocentric video dataset can be downloaded [[here]](http://vision.soic.indiana.edu/identifying-1st-3rd/).
 Though it's not necessary to download the original frames, it would be helpful to visualize the egocentric data.
 
+### Third-person VQA v.s. Ego-VQA
+![Task](/pics/video_sample.png)  
+
+
 
 ### Pre-training Dataset (YouTube2Text-QA)
 Because the Ego-VQA is a generally small QA dataset, we use a large YouTube2Text-QA dataset for pre-training.
