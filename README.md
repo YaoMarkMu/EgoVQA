@@ -15,18 +15,18 @@ Please cite this paper[[27]](https://arxiv.org/abs/1707.06355) if you use this d
 
 ### Pre-train
 ~~~~
-python pretrain.py ----memory_type=_mrm2s | _stvqa | _enc_dec | _co_mem
+python pretrain.py --memory_type=_mrm2s | _stvqa | _enc_dec | _co_mem
 ~~~~
 
 ### Train, validate, and test
 For training and validating, execute the following command
 ~~~~
-python train.py --split=1|2|3 ----memory_type=_mrm2s | _stvqa | _enc_dec | _co_mem
+python train.py --split=1|2|3 --memory_type=_mrm2s | _stvqa | _enc_dec | _co_mem
 ~~~~
 
-For testing, just add a --test=1 flag, such as
+For testing, execute the following command
 ~~~~
-python test.py ----memory_type=
+python test.py --memory_type=_mrm2s | _stvqa | _enc_dec | _co_mem
 ~~~~
 
 Please modify train.py to manually add your pre-trained models to initialize the entire model.
